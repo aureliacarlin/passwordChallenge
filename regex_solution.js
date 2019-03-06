@@ -1,3 +1,11 @@
+/*The Challenge:
+
+Write a function, that takes in one parameter, N, where N is a string of whole positive integers and letters.
+The function must take that string, and find the longest sub-string within that string, that
+consists of only letters, and has at least 1 uppercase letter,
+and return the length of that substring
+*/
+
 function gex(X){
     let lengths = [];
     try {
